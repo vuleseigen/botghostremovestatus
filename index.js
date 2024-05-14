@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["dicord.gg/ValoVault"];
+const statusMessages = ["dicord.gg/7DaHYR7Tuq"];
 
 
 let currentIndex = 0;
